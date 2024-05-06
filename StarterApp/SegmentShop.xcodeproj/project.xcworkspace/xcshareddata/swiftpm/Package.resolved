@@ -1,0 +1,24 @@
+{
+  "originHash" : "ca87556fe904f689f0707fdd491811ace51b8edbadf973a9f845ff54fc94b15e",
+  "pins" : [
+    {
+      "identity" : "peasy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KaneCheshire/Peasy",
+      "state" : {
+        "revision" : "8503ef6422ef6986891f690329e767534194bcd3",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swiftkeychainwrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jrendel/SwiftKeychainWrapper",
+      "state" : {
+        "revision" : "185a3165346a03767101c4f62e9a545a0fe0530f",
+        "version" : "4.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}

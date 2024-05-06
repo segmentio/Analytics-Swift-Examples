@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>TwilioSansMono-Bold.ttf</string>
+		<string>TwilioSansMono-Heavy.ttf</string>
+		<string>TwilioSansMono-Light.ttf</string>
+		<string>TwilioSansMono-Medium.ttf</string>
+		<string>TwilioSansMono-Regular.ttf</string>
+		<string>TwilioSansMono-Retina.ttf</string>
+		<string>TwilioSansMono-Semibold.ttf</string>
+		<string>TwilioSansMono-RegularItl.ttf</string>
+		<string>TwilioSansMono-LightItl.ttf</string>
+	</array>
+</dict>
+</plist>
